@@ -1,16 +1,38 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Raúl Corcino León
 
-<!--
-**RaulLeon01/RaulLeon01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudiante de **Infraestructura de Redes Digitales** en la Universidad Tecnológica de Emiliano Zapata (UTEZ).  
+🔌 Apasionado por la tecnología, automatización y mantenimiento de equipos. Combino habilidades técnicas en computación y electricidad.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚙️ Habilidades técnicas
+
+- 🖥️ Mantenimiento y ensamblaje de equipos de cómputo
+- 💻 Programación en **Java**, **Python**, **C** y **C++**
+- 🌐 Configuración de redes LAN/Wi-Fi y dispositivos  
+- 🛠 Automatización de tareas en entornos Windows  
+- 🔐 Conocimientos en seguridad de red y protocolos del modelo OSI
+
+---
+
+## 💼 Experiencia
+
+- Técnico de soporte (hardware y redes locales)
+- Proyectos escolares sobre inclusión educativa con tecnología
+- Experiencia práctica en plomería y electricidad residencial
+
+---
+
+## 🎯 Objetivos
+
+Seguir aprendiendo y colaborar en proyectos donde pueda aplicar y mejorar mis habilidades técnicas y humanas. Me interesa contribuir en áreas como:
+
+- Redes digitales
+- Automatización de sistemas
+- Herramientas útiles para usuarios reales
+
+---
+
+## 📫 ¿Hablamos?
+
+- 💌 angel.leo2802@gmail.com
