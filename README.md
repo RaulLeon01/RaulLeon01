@@ -15,6 +15,13 @@
 
 ---
 
+## 🎭 Entretenimiento
+
+- 🎮 Me encantan los videojuegos como Zenless Zone Zero y Halo
+- 📺 Me gusta el anime y las películas de genero romance y drama
+
+---
+
 ## 💼 Experiencia
 
 - Técnico de soporte (hardware y redes locales)
