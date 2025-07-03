@@ -17,8 +17,8 @@
 
 ## 🎭 Entretenimiento
 
-- 🎮 Me encantan los videojuegos como Zenless Zone Zero y Halo
-- 📺 Me gusta el anime y las películas de genero romance y drama
+- 🎮 Me encantan los videojuegos, en especial Zenless Zone Zero y Halo
+- 📺 Me gusta el anime de genero romance y drama
 
 ---
 
