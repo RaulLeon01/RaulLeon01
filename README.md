@@ -37,9 +37,3 @@ Seguir aprendiendo y colaborar en proyectos donde pueda aplicar y mejorar mis ha
 - Redes digitales
 - Automatización de sistemas
 - Herramientas útiles para usuarios reales
-
----
-
-## 📫 ¿Hablamos?
-
-- 💌 angel.leo2802@gmail.com
