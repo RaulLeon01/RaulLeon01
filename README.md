@@ -8,7 +8,7 @@
 ## ⚙️ Habilidades técnicas
 
 - 🖥️ Mantenimiento y ensamblaje de equipos de cómputo
-- 💻 Programación en **Java**, **Python**, **C** y **C++**
+- 💻 Programación en **Python**, **C** y **C++**
 - 🌐 Configuración de redes LAN/Wi-Fi y dispositivos  
 - 🛠 Automatización de tareas en entornos Windows  
 - 🔐 Conocimientos en seguridad de red y protocolos del modelo OSI
