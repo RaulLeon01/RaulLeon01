@@ -11,22 +11,22 @@
 - 💻 Programación en **Python** y **BD**
 - 🌐 Configuración de redes LAN/Wi-Fi y dispositivos  
 - 🛠 Automatización de tareas en entornos Windows y Linux  
-- 🔐 Conocimientos en seguridad de red y protocolos del modelo OSI
+- 🔐 Conocimientos en Ciber Seguridad, Infraestructura de red y protocolos del modelo OSI
 
 ---
 
 ## 🎭 Entretenimiento
 
 - 🎮 Me encantan los videojuegos, en especial Zenless Zone Zero y Halo
-- 📺 Me gusta el anime de genero romance y drama
+- 📺 Mi anime favorito es Sōsō no Frieren y Bunny Girl Senpai 
 
 ---
 
 ## 💼 Experiencia
 
 - Técnico de soporte (hardware y redes locales)
-- Proyectos escolares sobre inclusión educativa con tecnología
 - Experiencia práctica en plomería y electricidad residencial
+- Creación de sistemas autonómos inteligentes en Windows y Linux
 
 ---
 
